@@ -1,4 +1,4 @@
-package com.example.my_cash_book
+package com.example.nabung_dong
 
 import io.flutter.embedding.android.FlutterActivity
 
